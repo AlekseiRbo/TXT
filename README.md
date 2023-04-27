@@ -64,7 +64,8 @@ Go to the "Repositories" tab, then ckick "New", in the "Repository name *" enter
 		"and etc"
 ```  
 12. Make a commit in one line.  
-`git add . && git commit -am "Create 'preferences.txt' and 'sklls.txt'"`
+`git config --global alias.acm '!git add -A && git commit -m'`
+`git acm "Create 'preferences.txt' and 'sklls.txt'"`
 
 13.  Send 2 files at once to an external repository.   
 `git push`  
