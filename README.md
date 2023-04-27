@@ -63,9 +63,8 @@ Go to the "Repositories" tab, then ckick "New", in the "Repository name *" enter
 		"SOAP_API", 
 		"and etc"
 ```  
-12. Make a commit in one line.  
-`git config --global alias.acm '!git add -A && git commit -m'`  
-`git acm "Create 'preferences.txt' and 'sklls.txt'"`
+12. Make a commit in one line.    
+`git acm "Create 'preferences.txt' and 'sklls.txt'"`  
 
 13.  Send 2 files at once to an external repository.   
 `git push`  
