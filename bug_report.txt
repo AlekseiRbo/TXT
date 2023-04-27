@@ -1,1 +1,14 @@
-
+"ID": "001",
+"Severity": "Medium",
+"Environment": "Devices",
+"Title": "What?Where?When?",
+"Steps": "Steps to reproduce",
+"ER": "Expected Result",
+"AR": "Actual Result",
+"Link": "link",
+"License": "license",
+"Role": "Unregistered, Unauthorized, Authorized, All",
+"Telegram @nick. Bug started": "@_",
+"Telegram @nick. Bug reproduced": "@_",
+"Telegram @nick. Bug didn't reproduce": "@_",
+"Bug didn't reproduce (environment)": "Devices"
