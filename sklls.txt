@@ -1,0 +1,14 @@
+"user_soft_skills":
+"attentiveness", 
+"multitasking", 
+"perseverance", 
+"skill to work in team",
+"and etc"
+		
+"user_hard_skills":
+"Git", 
+"GitHub", 
+"Postman_API", 
+"SQL", 
+"SOAP_API", 
+"and etc"
