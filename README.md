@@ -63,7 +63,7 @@ Go to the "Repositories" tab, then ckick "New", in the "Repository name *" enter
 		"SOAP_API", 
 		"and etc"
 ```  
-12. Make a commit in one line.
+12. Make a commit in one line
 
 13.  Send 2 files at once to an external repository.  
 `git commit -am "Add diff 'preferences.txt' and 'sklls.txt'"`  
